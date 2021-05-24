@@ -1,1 +1,1 @@
-# sample-app created using React+Redux
+# Sample-app created using React+Redux
